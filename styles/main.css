@@ -1,0 +1,10 @@
+@import "details.css";
+
+
+#orderButton {
+    margin: 1rem 0 2rem 2rem;
+    padding: 0.5rem;
+    background-color: rgb(228, 116, 116);
+    color: rgb(0, 0, 0);
+    font-size: 1rem;
+}
